@@ -1,6 +1,6 @@
 # NED-batch4-Python
 
-## CLASS RECORDING
+## CLASS RECORDINGS
 
 # CLASS : 1
 # https://drive.google.com/file/d/1tmYaLpvtyeTfRIN2LUGDknYIiizMBiE0/view?usp=drive_web&authuser=0
